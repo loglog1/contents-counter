@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Irai</string>
+    <string name="upper_left">1</string>
+    <string name="upper_center">2</string>
+    <string name="upper_right">3</string>
+    <string name="center_left">4</string>
+    <string name="center_center">5</string>
+    <string name="center_right">6</string>
+    <string name="lower_left">7</string>
+    <string name="lower_center">8</string>
+    <string name="lower_right">9</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
